@@ -1,6 +1,8 @@
 # DAX-Practice
 Practicing DAX measures and Power BI Exercises 
 
-## 3/05/2026 --Covered SWITCH Function and COUNT ROWS
+## 3/05/2026
+--Covered SWITCH Function and COUNT ROWS
 
-## 6/09/2026 --- Covered PREVIOUSMONTH and DATEADD
+## 6/09/2026 
+--- Covered PREVIOUSMONTH and DATEADD
