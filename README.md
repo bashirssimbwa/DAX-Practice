@@ -5,7 +5,7 @@
 - Covered SWITCH Function and COUNT ROWS
 
 #### 6/09/2026 (TimeIntelligence)
--  Covered** PREVIOUSMONTH** and** DATEADD** Functions
+-  Covered **PREVIOUSMONTH** and **DATEADD** Functions
 - These conceptually behave like the** LAG()** function in SQL
 
 - Covered **TOTALQTD** Fubction that tracks Running totals/sales for previous Quarters
