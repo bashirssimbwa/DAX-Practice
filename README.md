@@ -6,3 +6,4 @@ Practicing DAX measures and Power BI Exercises
 
 #### 6/09/2026 (TimeIntelligence)
 --- Covered PREVIOUSMONTH and DATEADD
+These conceptually behave like the LAG() function in SQL
