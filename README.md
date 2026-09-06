@@ -1,4 +1,4 @@
-<img width="631" height="296" alt="image" src="https://github.com/user-attachments/assets/63a074f1-9dfe-403e-b8fe-150ab2509d60" /># DAX-Practice
+# DAX-Practice
 - Practicing DAX measures and Power BI Exercises 
 
 #### 3/05/2026
