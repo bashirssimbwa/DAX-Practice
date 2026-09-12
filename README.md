@@ -13,5 +13,5 @@
 - Covered Condtional  Formatting  and Role Playing Dimesions
 
  #### 12/09/2026 (Time Intelligence)
-- Covered **Date Heirarchy** 
+- Covered **Date Hierarchy** -- For drill down  and drill up functionality  inside a report
   
