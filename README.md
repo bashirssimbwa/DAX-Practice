@@ -6,7 +6,7 @@
 
 #### 6/09/2026 (TimeIntelligence)
 -  Covered **PREVIOUSMONTH** and **DATEADD** Functions
-- These conceptually behave like the** LAG()** function in SQL
+- These conceptually behave like the **LAG()** function in SQL
 
 - Covered **TOTALQTD**(Time Quarter Function) Function that tracks Running totals/sales for previous Quarters
 -  This Function behave like **SUM()OVER(PARTITION BY ...  ORDER BY... )** in SQL for tracking Running Totals
