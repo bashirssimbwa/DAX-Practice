@@ -14,4 +14,5 @@
 
  #### 12/09/2026 (Time Intelligence)
 - Covered **Date Hierarchy** -- For drill down  and drill up functionality  inside a report
+- Covered **USERELATIONSHIP** function that sepcifies an inactive reltionship between two tables to be used temporarily during a sepcific calculation.
   
