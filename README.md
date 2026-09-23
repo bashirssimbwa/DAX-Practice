@@ -15,4 +15,11 @@
  #### 12/09/2026 (Time Intelligence)
 - Covered **Date Hierarchy** -- For drill down  and drill up functionality  inside a report
 - Covered **USERELATIONSHIP** function that sepcifies an inactive reltionship between two tables to be used temporarily during a sepcific calculation.
+
+  #### 23/09/2026(Time Intelligence)
+  - **IF** + **ISINSCOPE** -- Ensures the calculation only runs at he month/Year.
+  - **DATEADD(-1, MONMTH)** -- Shifts the date context back one month
+  - **SAMEPERIODLASTYEAR** -- Shifts the date context to the exact same period earlier
+  - **IF + BLANK** -- Conditional Blank handling
+  - **TOTALMTD(TotalMonth-to-Date)** -- Calculates teh month-to-date  running total using the show date hierachy
   
